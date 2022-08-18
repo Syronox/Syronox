@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Syronox
 - 👀 I’m interested in coding
-- - 🌱 I’m currently learning to program in VHDL
+- - 🌱 I’m currently learning to program in HTML, CSS & JavaScript
 - 📫 How to reach me alonkalif15@gmail.com
 
 
